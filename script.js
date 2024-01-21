@@ -6,16 +6,16 @@ document.addEventListener('DOMContentLoaded', () => {
     let cardsWon = [];
 
     const cardArray = [
-        { name: 'card1', img: 'images/dondie.png' },
-        { name: 'card1', img: 'images/dondie.png' },
+        { name: 'card1', img: 'images/baby.png' },
+        { name: 'card1', img: 'images/baby.png' },
         { name: 'card2', img: 'images/fin.png' },
         { name: 'card2', img: 'images/fin.png' },
         { name: 'card3', img: 'images/blk.png' },
         { name: 'card3', img: 'images/blk.png' },
-        { name: 'card4', img: 'images/ran.png' },
-        { name: 'card4', img: 'images/ran.png' },
-        { name: 'card5', img: 'images/car.png' },
-        { name: 'card5', img: 'images/car.png' },
+        { name: 'card4', img: 'images/rollsafe.png' },
+        { name: 'card4', img: 'images/rollsafe.png' },
+        { name: 'card5', img: 'images/fine.png' },
+        { name: 'card5', img: 'images/fine.png' },
         // ...add more pairs as needed
     ];
 
